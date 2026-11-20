@@ -2,7 +2,7 @@
 
 # 7r
 
-`16` &nbsp;•&nbsp; `Bahrain` 🇧🇭 &nbsp;•&nbsp; `Discord: 7rau`
+`Bahrain` 🇧🇭 &nbsp;•&nbsp; `Discord: 7rau`
 
 <br>
 
@@ -14,13 +14,13 @@
 
 ---
 
-### Profile
-| Field | Details |
+### Identity
+
+| Key | Value |
 | :--- | :--- |
 | **Name** | `7r` |
-| **Age** | `16` |
-| **Country** | `Bahrain` 🇧🇭 |
-| **Contact** | Discord — `7rau` |
+| **Location** | `Bahrain` 🇧🇭 |
+| **Discord** | `7rau` |
 
 ---
 
