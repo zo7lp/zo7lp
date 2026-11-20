@@ -16,7 +16,7 @@
 
 ### Identity
 
-| Key | Value |
+
 | :--- | :--- |
 | **Name** | `7r` |
 | **Location** | `Bahrain` 🇧🇭 |
