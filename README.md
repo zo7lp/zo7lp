@@ -2,7 +2,7 @@
 
 # 7r
 
-**16** • **Bahrain** 🇧🇭  
+ • **Bahrain** 🇧🇭  
 Building Discord bots, web dashboards & automation tools.
 
 </div>
