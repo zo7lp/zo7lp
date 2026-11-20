@@ -3,21 +3,14 @@
 # 7r
 
 **16** • **Bahrain** 🇧🇭  
-Building bots, dashboards & web tools.
-
-[![Discord](https://img.shields.io/badge/Discord-7rau-111111?style=for-the-badge&logo=discord&logoColor=white)](#contact)
+Building Discord bots, web dashboards & automation tools.
 
 </div>
 
 ---
 
-### About Me
-- **Name:** `7r`
-- **Country:** `Bahrain`
-- **Focus:** JavaScript / Node.js, Python & Web Development
+### 🌐 Connect with me:
 
----
+[![Discord](https://img.shields.io/badge/Discord-7rau-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1246791224854052968)
 
-### Contact
-Reach me directly on Discord:
 - **Discord:** `7rau`
