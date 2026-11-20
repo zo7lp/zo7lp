@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**zo7lp/zo7lp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 7r
 
-Here are some ideas to get you started:
+**16** • **Bahrain** 🇧🇭  
+Building bots, dashboards & web tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Discord](https://img.shields.io/badge/Discord-7rau-111111?style=for-the-badge&logo=discord&logoColor=white)](#contact)
+
+</div>
+
+---
+
+### About Me
+- **Name:** `7r`
+- **Country:** `Bahrain`
+- **Focus:** JavaScript / Node.js, Python & Web Development
+
+---
+
+### Contact
+Reach me directly on Discord:
+- **Discord:** `7rau`
